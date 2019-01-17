@@ -1,4 +1,5 @@
 #!/bin/bash
+# https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce
 sudo apt-get remove docker docker-engine docker.io
 
 sudo apt-get update
